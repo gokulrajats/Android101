@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="match_parent">
 
     <androidx.cardview.widget.CardView
         android:layout_margin="3dp"
@@ -21,7 +21,7 @@
 
                 <ImageView
                     android:id="@+id/imageView"
-                    android:background="@drawable/captain_marvel"
+                    android:background="@drawable/ic_launcher_background"
                     android:layout_width="match_parent"
                     android:scaleType="matrix"
                     android:layout_height="195dp"
